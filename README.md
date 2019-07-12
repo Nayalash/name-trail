@@ -13,9 +13,9 @@ A flutter app that tells the language origin and gender of a name.
 
 ## Built With
 
-* [Flutter](https://github.com/DV8FromTheWorld/JDA) - Framework
-* [Behind The Name API](http://www.mygasfeed.com/keys/intro) - API 
-* [HTTP Package](https://gradle.org/) - Pub Package
+* [Flutter](https://flutter.dev/) - Framework
+* [Behind The Name API](https://www.behindthename.com/api/) - API 
+* [HTTP Package](https://pub.dev/packages/http) - Pub Package
 
 
 ## License
