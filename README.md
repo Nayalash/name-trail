@@ -2,7 +2,7 @@
 A flutter app that tells the language origin and gender of a name.
 
 <p align="center">
-<img src="https://github.com/steverichey/google-play-badge-svg/blob/master/img/en_get.svg"/>
+  <a href="https://nayalash.github.io/comingsoon"><img src="https://github.com/steverichey/google-play-badge-svg/blob/master/img/en_get.svg"/> </a>
 </p>
 
 <p align="center">
